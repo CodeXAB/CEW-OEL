@@ -11,11 +11,13 @@ To run the program, you need to compile all C files and run the main.sh file on 
 #Jansson Library
 <br>
 The project uses Jansson library that needs to be installed.
-open the terminal and write the following commands one by one 
+open the terminal and write the following commands one by one
+<br>
 command 1: sudo apt install cmake 
-command 2: wget https://digip.org/jansson/releases/jansson-2.13.tar.gz
-command 3: tar -xf jansson-2.13.tar.gz
-command 4: cd jansson-2.13
-command 5: cmake .
-command 6: sudo make install
-to compile the file= Command: gcc main.c -o main -ljansson -lcurl
+<br>
+command 2: wget https://digip.org/jansson/releases/jansson-2.13.tar.gz  <br>
+command 3: tar -xf jansson-2.13.tar.gz  <br>
+command 4: cd jansson-2.13  <br>
+command 5: cmake .  <br>
+command 6: sudo make install  <br>
+to compile the file= Command: gcc main.c -o main -ljansson -lcurl  <br>
