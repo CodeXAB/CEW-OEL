@@ -6,7 +6,7 @@ Construct an integrated environmental monitoring system in C, covering a range o
 <br>
 #How to use this project?
 <br>
-To run the program, you need to compile all C files and run the main.sh file on the Linux terminal.
+To run the program, you need to run the main.sh file on the Linux terminal.
 <br>
 #Jansson Library
 <br>
@@ -25,7 +25,3 @@ when compiling the C file in which jansson is used, -ljansson should be used. <b
 <br>
 The email credentials can be changed through send_mail header file.
 <br>
-#How to run the main program?
-<br>
-The main program will run from the shell file. Here's the command to run the main shell file  <br>
-command: ./main.sh
