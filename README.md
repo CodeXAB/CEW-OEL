@@ -20,4 +20,4 @@ command 3: tar -xf jansson-2.13.tar.gz  <br>
 command 4: cd jansson-2.13  <br>
 command 5: cmake .  <br>
 command 6: sudo make install  <br>
-to compile the file= Command: gcc datafetching.c -o datafetching -ljansson -lcurl  <br>
+command 7: ./main.sh
