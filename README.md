@@ -20,4 +20,12 @@ command 3: tar -xf jansson-2.13.tar.gz  <br>
 command 4: cd jansson-2.13  <br>
 command 5: cmake .  <br>
 command 6: sudo make install  <br>
-command 7: ./main.sh
+when compiling the C file in which jansson is used, -ljansson should be used. <br>
+#How to change email credentials?
+<br>
+The email credentials can be changed through send_mail header file.
+<br>
+#How to run the main program?
+<br>
+The main program will run from the shell file. Here's the command to run the main shell file  <br>
+command: ./main.sh
