@@ -3,11 +3,11 @@
 
 // Gmail SMTP server details for secure submission (port 587)
 #define SMTP_SERVER "smtp://smtp.gmail.com:587"
-#define USERNAME "2004worklife@gmail.com" 
-#define PASSWORD "okex xcwi ygqt sptn" 
+#define USERNAME "sender email" 
+#define PASSWORD "sender password" 
 
 // Email details
-#define TO_ADDRESS "2004worklife@gmail.com"
+#define TO_ADDRESS "receipients email"
 #define SUBJECT "Visibility Alert"
 #define BODY_BAD "Subject: Visibility Alert\r\n\r\nVisibility is bad. Please stay indoors and avoid driving any vehicle.\0"
 
